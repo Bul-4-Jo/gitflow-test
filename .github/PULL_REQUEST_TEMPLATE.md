@@ -1,5 +1,3 @@
-// PULL_Request_template
-
 ### 📝 제목
 
 ex) OO 기능 구현

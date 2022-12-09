@@ -2,6 +2,8 @@
 name: bug
 about: -
 title: ' test'
+labels: ''
+assignees: ''
 ---
 
 ## **버그 설명,스크린샷(optional)**
